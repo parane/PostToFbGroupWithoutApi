@@ -1,12 +1,3 @@
-"""
--*- coding: utf-8 -*-
-========================
-Python Facebook Bot
-========================
-Developed by: Chirag Rathod (Srce Cde)
-Email: chiragr83@gmail.com
-========================
-"""
 
 import selenium
 from selenium import webdriver
@@ -18,7 +9,8 @@ import time
 
 # Uncomment this for invisible browser
 # display = Display(visible=0)
-# display.start()
+# display.start() credit Chirag Rathod (Srce Cde) Email: chiragr83@gmail.com
+
 
 
 class FbBot():
