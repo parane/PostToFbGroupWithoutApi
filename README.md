@@ -28,4 +28,4 @@ A basic python facebook-bot that can automate your post in group. All you need t
 <strong>Use at your own risk</strong>
 
 
-[[http://i.imgur.com/QrxjfxX.jpg]]
+![alt text](http://i.imgur.com/QrxjfxX.jpg)
